@@ -1,4 +1,4 @@
-#####[Hi there, my name is Beni 👋](https://github.com/beniaryos)(h5)
+#####Hi there, my name is Beni 👋
 
 I am very proud of what I have learned previously and I will apply it more now.
 
@@ -17,6 +17,9 @@ I am very proud of what I have learned previously and I will apply it more now.
 ° 📩 Email me on [G-mail](https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=beni.aryo95@gmail.com)
 
 ° 🍃 Instagram : [@bastech.id](https://www.instagram.com/bastech.id)
+
+
+👉 github : [link](https://github.com/beniaryos)
 
 
 <!---
