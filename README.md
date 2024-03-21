@@ -1,6 +1,6 @@
 👋 I am very proud of what I have learned previously and I will apply it more now.
 
-° 🌱 Currently I'm learning the dart programming language and deepening my knowledge of javascript as well as touching on the flutter and laravel frameworks.
+° 🌱 I'm currently learning the flutter and laravel framework.
 
 ° 👨🏾‍🤝‍👨🏽 I want to collaborate on big projects in the world
 
