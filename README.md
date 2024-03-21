@@ -1,5 +1,7 @@
 [Hi there, my name is Beni 👋🤝](https://github.com/beniaryos)
 
+![Twitter](images/twitter-logo.png)
+
 I am very proud of what I have learned previously and I will apply it more now.
 
 ° 🌱 I'm currently learning the flutter and laravel framework.
