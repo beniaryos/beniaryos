@@ -1,4 +1,4 @@
-##Hi there, my name is Beni 👋🤝(h2)
+[Hi there, my name is Beni 👋🤝](https://github.com/beniaryos)
 
 I am very proud of what I have learned previously and I will apply it more now.
 
@@ -18,8 +18,6 @@ I am very proud of what I have learned previously and I will apply it more now.
 
 ° 🍃 Instagram : [@bastech.id](https://www.instagram.com/bastech.id)
 
-
-👉 github : [link](https://github.com/beniaryos)
 
 
 <!---
