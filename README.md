@@ -6,7 +6,7 @@
 ° ⚡ Interesting fact: learn what you can learn and apply what you can apply
 ° 📞 WhatsApp me on Whatsapp
 ° 📩 Email me on G-mail
-° 🍃 Instagram : 
+° 🍃 Instagram : //
 
 
 <!---
