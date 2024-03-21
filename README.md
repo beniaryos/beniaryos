@@ -19,6 +19,9 @@ I am very proud of what I have learned previously and I will apply it more now.
 ° 🍃 Instagram : [@bastech.id](https://www.instagram.com/bastech.id)
 
 
+https://github-readme-stats.vercel.app/api?username=beniaryos&show_icons=true&theme=transparent
+
+
 
 <!---
 beniaryos/beniaryos is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
