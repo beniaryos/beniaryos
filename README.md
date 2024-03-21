@@ -19,7 +19,7 @@ I am very proud of what I have learned previously and I will apply it more now.
 ° 🍃 Instagram : [@bastech.id](https://www.instagram.com/bastech.id)
 
 
-![ben](https://github-readme-stats.vercel.app/api?username=beniaryos&show_icons=true&theme=transparent)
+![ben](https://github-readme-stats.vercel.app/api?username=beniaryos&show_icons=true&theme=shadow_blue)
 
 
 
