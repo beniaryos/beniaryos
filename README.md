@@ -10,7 +10,7 @@
 
 ° ⚡ Interesting fact: learn what you can learn and apply what you can apply
 
-° 📞 WhatsApp me on Whatsapp
+° 📞 WhatsApp me on [Whatsapp](https://wa.me/6281215154779)
 
 ° 📩 Email me on G-mail
 
