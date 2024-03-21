@@ -12,9 +12,9 @@
 
 ° 📞 WhatsApp me on [Whatsapp](https://wa.me/6281215154779)
 
-° 📩 Email me on G-mail
+° 📩 Email me on [G-mail](https://mail.google.com/mail/u/0/?tf=cm&fs=1&to=beni.aryo95@gmail.com)
 
-° 🍃 Instagram : //
+° 🍃 Instagram : [@bastech.id](https://www.instagram.com/bastech.id)
 
 
 <!---
