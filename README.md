@@ -1,4 +1,4 @@
-👋 I am very proud of what I have learned previously and I will apply it more now.
+I am very proud of what I have learned previously and I will apply it more now.
 
 ° 🌱 I'm currently learning the flutter and laravel framework.
 
