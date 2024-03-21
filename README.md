@@ -18,12 +18,9 @@ I am very proud of what I have learned previously and I will apply it more now.
 
 ° 🍃 Instagram : [@bastech.id](https://www.instagram.com/bastech.id)
 
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 ![masben](https://github-readme-stats.vercel.app/api?username=beniaryos&show_icons=true&theme=react)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)
 
 
 
